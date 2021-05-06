@@ -1,1 +1,1 @@
-# Rock-paper-scissors
+Second project while learning on The Odin Project.
